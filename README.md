@@ -36,7 +36,7 @@
 · 데이터 전처리 및 시각화 기법 습득
 ```
 
-- 프로젝트 상세 ▶▶▶ [바로가기](https://github.com/HANISY/PORTFOLIO/tree/main/HR/01_Performance_Rating))
+- 프로젝트 상세 ▶▶▶ [바로가기](https://github.com/HANISY/PORTFOLIO/tree/main/HR/01_Performance_Rating)
 
 </br>
 
