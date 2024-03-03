@@ -34,7 +34,7 @@
 ```
 ```
 
-- 프로젝트 상세 ▶▶▶ [바로가기](https://github.com/HANISY/PORTFOLIO/blob/main/HR/Performance_Rating.md)  
+- 프로젝트 상세 ▶▶▶ [바로가기](HR/01_Performance_Rating)
 
 </br>
 
@@ -55,6 +55,6 @@
 - Lessons & Learned
 ```
 ```
-- 프로젝트 상세 ▶▶▶ [바로가기](https://github.com/HANISY/PORTFOLIO/blob/main/HR/Attrition.md)
+- 프로젝트 상세 ▶▶▶ [바로가기](HR/Attrition)
 
 </br>
