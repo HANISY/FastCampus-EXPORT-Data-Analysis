@@ -13,9 +13,12 @@
 2. 제조업  
 :calendar: 2024.02.29 - 03.14  
 
+</br>
 
 ---
-## 업무 성과 달성을 위한 요인 분석  
+
+## 업무 성과 달성을 위한 요인 분석   
+</br>
 
 - 프로젝트 개요
 ```
@@ -31,10 +34,13 @@
 ```
 ```
 
-- 프로젝트 상세 ▶▶▶ [바로가기](https://github.com/HANISY/Portfolio/blob/main/HR/Performance_Rating)  
-  
+- 프로젝트 상세 ▶▶▶ [바로가기](https://github.com/HANISY/PORTFOLIO/blob/main/HR/Performance_Rating)  
 
-## 퇴사를 촉발하는 주요 요인 분석
+</br>
+
+---
+## 퇴사를 촉발하는 주요 요인 분석  
+
 - 프로젝트 개요
 ```
 퇴사자의 특성을 살펴보고 퇴사로 인한 인력손실을 방지하기 위한 방법을 찾아보고자 함
@@ -49,4 +55,6 @@
 - Lessons & Learned
 ```
 ```
-- 프로젝트 상세 ▶▶▶ [바로가기](https://github.com/HANISY/Portfolio/blob/main/HR/Attrition)
+- 프로젝트 상세 ▶▶▶ [바로가기](https://github.com/HANISY/PORTFOLIO/blob/main/HR/Attrition)
+
+</br>
