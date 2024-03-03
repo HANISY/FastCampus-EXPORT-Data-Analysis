@@ -31,7 +31,7 @@
 ```
 ```
 
-- 프로젝트 상세 ▶▶▶ [바로가기](https://github.com/HANISY/Portfolio/blob/main/Performance_Rating)  
+- 프로젝트 상세 ▶▶▶ [바로가기](https://github.com/HANISY/Portfolio/blob/main/HR/Performance_Rating)  
   
 
 ## 퇴사를 촉발하는 주요 요인 분석
@@ -49,4 +49,4 @@
 - Lessons & Learned
 ```
 ```
-- 프로젝트 상세 ▶▶▶ [바로가기](https://github.com/HANISY/Portfolio/blob/main/Attrition)
+- 프로젝트 상세 ▶▶▶ [바로가기](https://github.com/HANISY/Portfolio/blob/main/HR/Attrition)
