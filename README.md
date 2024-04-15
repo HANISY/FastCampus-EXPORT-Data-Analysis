@@ -1,4 +1,4 @@
-# [ByteDegree] : EX-PORT Data Analysis 
+# Fastcampus : EX-PORT 2nd Data Analysis 
 ## About
 패스트캠퍼스 데이터 분석 2기 EX-PORT 과정 중 수행한 과제들을 정리하였습니다. 
 ## Contents
