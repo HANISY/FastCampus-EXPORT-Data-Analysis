@@ -26,49 +26,90 @@
 
 ## Projects
 ### 1. HR <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white">
-**① 업무 성과 달성을 위한 요인 분석**
-- 목적 :
-- 내용 : 
-- 결과 :
-- 피드백 :
-- 보완할 점 : 
-- 프로젝트 상세 ▶▶▶ [바로가기](https://github.com/HANISY/PORTFOLIO/tree/main/HR/01_Performance_Rating)  
-</br>
+#### ① 업무 성과 달성을 위한 요인 분석
 
-**② 퇴사를 촉발하는 주요 요인 분석** 
-- 목적 : 퇴사자의 특성을 분석하고 퇴사로 인한 인력 손실을 방지하기 위한 방법 모색
-- 내용 : 
-- 결과 :
-- 피드백 :
-- 보완할 점 : 
-- 프로젝트 상세 ▶▶▶ [바로가기](https://github.com/HANISY/PORTFOLIO/tree/main/HR/02_Attrition)
-</br>
+* **목적** :  
+
+* **내용** :   
+
+* **결과** :  
+
+* **보완할 점** :  
+  <details> 
+  <summary>내용 보기</summary>
+  
+1. 분석한 페이지마다 하시고 싶은 이야기가 명확히 보이지 않습니다. 사실을 표현한 부분은 당연히 분석의 과정에서 자연스러운 과정이나, 분석을 통한 메시지 전달은 사실보다 분석가의 의견이 표현되는 것이 좋을 것 같습니다.
+2. 그래프를 추가해주신 점은 좋으나 어떤 부분에서 특징이 있는지 표기가 되지 않은 점도 아쉽습니다. 멘트를 보고 하나하나 그래프를 세세히 봐야하는 경향이 있어, 한 페이지당 하나 혹은 두 메시지 정도와 그 근거로 그래프도 함께 연계해서 페이지당 어떤 메시지를 전달하고자 하는지 명확히 표현해주시면 더욱 좋을 것 같습니다.
+3. 과제 풀이 외에 결과를 바탕으로한 결론 잘 드러나지 않았던 아쉬웠습니다. 주어진 데이터 기반으로 결과를 시각화하고 정리하는 것도 필요하지만, 내가 분석가로서 어떤 것을 분석하고 싶은지(이번 과제에서는 우수 성과자의 특징 발굴), 그리고 거기에 따르는 데이터를 정하고(수집), 분석해서 그 결과를 검증하고 결론으로 연결 짓는 부분이 잘 안보였습니다. 그렇다면 가설검증의 과정을 의미하는 것인가? 반드시 그렇지 만은 않습니다만, 한국은행이나 정부 연구기관의 분석 보고서를 보면 가설이 없어도 목적에 맞는 분석, 그리고 그 목적에 대한 결론의 스토리라인이 명확합니다. “우수성과자의 특징 발굴”이 목적이니 당연히 여러 변수들을 다양한 관점에서 비교&분석하는 것은 과정 중에 자연스럽게 진행되는 과정이고, 결국 여러 결과들을 가지고 분석 목적에 대한 결론을 표현함으로써 내가 분석을 통해 하고 싶은 말이 무엇인가하는 목적-결론의 완결성 있는 스토리를 전달하는 것이 좋은 분석이 아닌가 싶습니다.  
+  </details>
+
+
+* **참고 자료** : HR/People Analytics 학습자료 공유 [바로가기](https://brunch.co.kr/@hrjaejinlee/13)  
+
+&nbsp; **➜ 프로젝트 상세** : [Performance Rating](https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/tree/main/HR/01_Performance_Rating)  
+</br>  
+
+#### ② 퇴사를 촉발하는 주요 요인 분석
+
+* **목적** : 퇴사자의 특성을 분석하고 퇴사로 인한 인력 손실을 방지하기 위한 방법 모색  
+
+* **내용** :   
+
+* **결과** :  
+
+* **보완할 점** :  
+  <details> 
+  <summary>내용 보기</summary>
+  
+1. 분석 보고서에서 분석가의 역량이 잘 드러나는 곳은 "분석 목적에 맞는 적절한 분석 기법을 활용하였는가(상관관계)" 하는 부분과 "왜 이 데이터(변수)를 선택했는가(왜 이렇게 변수를 조작했는가)"입니다. 과제에서 나름대로 적절한 분석 기법을 사용해주셨고, 분석 결과에 대해서도 충분히 납득할 수 있었습니다. 다만 여러가지 분석 기법 중에서 왜 이런 방법을 사용했는지를 언급해주시는 것이 분석 기법 자체보다 더 중요한 포인트라고 생각합니다. 분석 기법을 잘 아는 사람은 그 프로세스를 설명하지 않아도 잘 알겠지만, 궁금한 것은 "왜 이 분석 방법을 사용하였는가" 하는 것이라서 포트폴리오에서도 이 부분을 더욱 잘 드러낸다면 경쟁력 있는 포트폴리오가 될 것 입니다. 결국 포트폴리오를 통해 드러내고자 하는 것은 '분석가로서 나의 역량' 이니까요.
+2. 상관관계 분석의 결과가 너무 낮게 나와 결론적으로 분석의 의미가 있었는지 한번 더 생각해볼만한 부분인 것 같습니다. 상관관계는 의미가 아닌, 단순 숫자들의 상관성 비교하는 것이라 1과 1.5가 1과 2보다 더 가까운 것이 당연한 것처럼, 상관관계는 어쩌면 비즈니스적 분석이나 해석에 큰 역할을 못하거나 오히려 오해를 낳기도 합니다. 전체적으로 상관관계를 분석 과정에서 보신 점은 이유가 설명이 되나, 해석의 관점에서는 단위별로 혹은 그룹별로 나눠서 보는 방법이 조금 더 논리적 근거로서 역할을 하지 않을까 싶습니다! 강의에서도 강조드렸듯이 분석가는 분석 기술도 중요하지만 분석가로서의 본분인 "분석과 해석, 판단" 에서 더욱 경쟁력이 필요합니다.
+  </details>
+  
+* **참고 자료** : 
+1. https://dbr.donga.com/article/view/1201/article_no/10869
+2. https://hrdata.tistory.com/9?category=880450
+
+&nbsp; **➜ 프로젝트 상세** : [Attrition](https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/tree/main/HR/02_Attrition)
+</br>  
 
 ### 2. Manufacturing <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-**반도체 이상 탐지 프로젝트** 
-- 목적 : 
-- 내용 : 
-- 결과 :
-- 피드백 :
-- 보완할 점 : 
-- 프로젝트 상세 ▶▶▶
-</br>
 
-### 3. Marketing <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-**가상의 온라인 커머스 기업 '다잇다' 데이터 분석**
-- 목적 : 
-- 내용 : 
-- 결과 :
-- 피드백 :
-- 보완할 점 : 
-- 프로젝트 상세 ▶▶▶
-</br>
+#### 반도체 이상 탐지 프로젝트
 
-### 4. Final Project <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-**패스트캠퍼스-기업-데이터-분석**
-- 목적 : 
-- 내용 : 
-- 결과 :
-- 피드백 :
-- 보완할 점 : 
-- 프로젝트 상세 ▶▶▶
+* **목적** : 
+
+* **내용** :   
+
+* **결과** :  
+
+* **보완할 점** :  
+
+&nbsp; **➜프로젝트 상세** : 
+</br>  
+
+### 3. Marketing <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">  
+#### 가상의 온라인 커머스 기업 '다잇다' 데이터 분석
+
+* **목적** : 
+
+* **내용** :   
+
+* **결과** :  
+
+* **보완할 점** :  
+
+&nbsp; **➜프로젝트 상세** : 
+</br>  
+
+### 4. Final Project <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">  
+#### 패스트캠퍼스-기업-데이터-분석
+
+* **목적** : 
+
+* **내용** :   
+
+* **결과** :  
+
+* **보완할 점** :  
+
+&nbsp; **➜프로젝트 상세** : 
