@@ -21,15 +21,15 @@
 8. 강의 신청을 완료한 유저는 약 63%이며 취소한 유저는 21%입니다. 
 9. 휴면 회원은 ID 생성 후 마지막 로그인까지 평균 154.11일이 소요되었습니다. 
 ```
-📊 [상세 내용 확인](https://github.com/HANISY/FASTCAMPUS_EXPORT2/blob/main/EXPORT2_FINAL_PROJECT.ipynb](https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/blob/main/Final-Project/Final_Project.ipynb)
+📊 [상세 내용 확인](https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/blob/main/Final-Project/Final_Project.ipynb)
 
 </br>
 
 ## 분석 결과
 
 <p>
-<img src="https://github.com/HANISY/FASTCAMPUS_EXPORT2/blob/main/img/result_1.png?raw=true" width="800">
-<img src="https://github.com/HANISY/FASTCAMPUS_EXPORT2/blob/main/img/result_2.png?raw=true" width="800">
+<img src="https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/blob/main/Final-Project/img/result_1.png" width="800">
+<img src="https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/blob/main/Final-Project/img/result_2.png" width="800">
 </p>
 
 
