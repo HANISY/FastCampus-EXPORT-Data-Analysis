@@ -19,7 +19,7 @@
      ```추가 구매를 위한 추천 상품군 제안 및 세그먼트 설계```
    
 **4. [Final Project](#4-Final-project)** (2024.03.28 - 04.11)  
-   * 패스트캠퍼스 기업 데이터 분석](#패스트캠퍼스-기업-데이터-분석
+   * 패스트캠퍼스 기업 데이터 분석](#패스트캠퍼스-기업-데이터-분석)
      ```수강신청 내역 분석을 통한 기술 트렌드 및 수업 인기도 분석```
 
 ---  
@@ -65,7 +65,7 @@
 </br>
 
 ### 4. Final Project <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-**패스트캠퍼스 기업 데이터 분석](#패스트캠퍼스-기업-데이터-분석**
+**패스트캠퍼스-기업-데이터-분석**
 - 목적 : 
 - 내용 : 
 - 결과 :
