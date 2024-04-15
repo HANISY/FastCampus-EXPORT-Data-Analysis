@@ -124,7 +124,7 @@
 * **참고 자료** : Feature Engineering을 다룰 수 있는 주요 Competition 소개 [kaggle 바로가기](https://www.kaggle.com/competitions/home-credit-default-risk/overview)
 </br>
 
-&nbsp; **➜프로젝트 상세** : [기본](https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/blob/main/Manufacturing/EXPORT_MANUFACTURING_Basic.ipynb) [심화](https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/blob/main/Manufacturing/EXPORT_MANUFACTURING_Advanced.ipynb)
+&nbsp; **➜프로젝트 상세** : [기본](https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/blob/main/Manufacturing/Manufacturing_Basic.ipynb) [심화](https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/blob/main/Manufacturing/EXPORT_MANUFACTUR/Manufacturing_Advanced.ipynb)
 </br>  
 </br> 
 
