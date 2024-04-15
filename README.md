@@ -28,7 +28,7 @@
 ### 1. HR <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white">
 #### ① 업무 성과 달성을 위한 요인 분석
 
-* **목적** : 우수 업무성과자의 특성을 분석하여여 업무 성과에 영향을 미치는 요인 탐색
+* **목적** : 우수 업무성과자의 특성을 분석하여 업무 성과에 영향을 미치는 요인 탐색
 
 * **내용** :   
 
@@ -160,6 +160,6 @@
 * **보완할 점** :  
 </br>
 
-&nbsp; **➜프로젝트 상세** : [Final Project](https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/blob/main/Final-Project/Final_Project.ipynb)
+&nbsp; **➜프로젝트 상세** : [FINAL PROJECT](https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/blob/main/Final-Project/Final_Project.ipynb)
 </br> 
 </br> 
