@@ -149,7 +149,7 @@
 </br> 
 
 ### 4. Final Project <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">  
-#### 패스트캠퍼스-기업-데이터-분석
+#### 패스트캠퍼스 기업 데이터 분석
 
 * **목적** : 
 
