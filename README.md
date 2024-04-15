@@ -144,7 +144,7 @@
 * **참고 자료** : [도서 - 파이썬 데이터 분석 실무 테크닉 100](https://wikibook.co.kr/pyda100)  
 </br>
 
-&nbsp; **➜프로젝트 상세** : 
+&nbsp; **➜프로젝트 상세** : [기본](https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/blob/main/Marketing/Marketing_Basic.ipynb) [심화](https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/blob/main/Marketing/Marketing_Advanced.ipynb)
 </br>  
 </br> 
 
@@ -160,6 +160,6 @@
 * **보완할 점** :  
 </br>
 
-&nbsp; **➜프로젝트 상세** : 
+&nbsp; **➜프로젝트 상세** : [Final Project](https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/blob/main/Final-Project/Final_Project.ipynb)
 </br> 
 </br> 
