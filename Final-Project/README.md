@@ -1,4 +1,4 @@
-# Final Project : 패스트캠퍼스 데이터 분석 
+# Final Project : 패스트캠퍼스 기업 데이터 분석 
 ## 목적
 ```
 · 패스트캠퍼스의 Customer, User, Order, Course, Refund 데이터를 통해 2022년도 현황을 분석
