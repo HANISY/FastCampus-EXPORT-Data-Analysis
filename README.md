@@ -30,9 +30,14 @@
 
 * **목적** : 우수 업무성과자의 특성을 분석하여 업무 성과에 영향을 미치는 요인 탐색
 
-* **내용** :   
+* **내용** : 요인별 업무 성과와의 관계를 파악하고 추후 발생할 주요 이슈들을 도출 
 
-* **결과** :  
+* **결과** :
+  * 현 소득보다 급여의 인상이 업무 성과에 영향을 미칠 수 있다.
+  
+  * 출장이 없고, 업무 강도가 낮을 수록 업무 성과가 향상될 수 있다.
+  
+  * 집과의 거리가 가까울 수록 업무 성과가 향상될 수 있다. 
 
 * **보완할 점** :  
   <details> 
@@ -54,11 +59,14 @@
 
 #### ② 퇴사를 촉발하는 주요 요인 분석
 
-* **목적** : 퇴사자의 특성을 분석하고 퇴사로 인한 인력 손실을 방지하기 위한 방법 모색  
+* **목적** : 퇴사자의 특성을 분석하고 퇴사로 인한대 인력 손실을 방지하기 위한 방법 모색  
 
-* **내용** :   
+* **내용** : 퇴사자의 특성을 파악하고 3가지 가설을 설정하여 주요 요인별 퇴사 여부와의 상관관계를 분석   
 
-* **결과** :  
+* **결과** :
+  * 대인 관계 만족도가 낮을 수록, 출장 빈도가 잦거나 초과근무가 있을 경우 더 많이 퇴사한다.
+  
+  * 근속 연수가 낮을 수록 퇴사 비율이 높아지는 경향이 있으므로 연차별로 만족도를 향상시킬 수 있는 방법을 마련한다면 퇴사를 방어할 수 있을 것으로 예상된다. 
 
 * **보완할 점** :  
   <details> 
@@ -82,11 +90,17 @@
 
 #### 반도체 이상 탐지 프로젝트
 
-* **목적** : 
+* **목적** : 센서 데이터로부터 반도체 공정의 Pass/Fail을 식별하기 위한 중요 변수 도출
 
-* **내용** :   
+* **내용** :
+  * 반도체를 제작하려면 보통 2~3개월이 걸리며, 600개의 공정을 거쳐야 한다. 이 과정에서 소재나 장비에 문제가 생기면 생산량 감소와 품질 하락으로 연결되어 기업의 손해로 이어질 수 있다.
+    
+  * 사전에 비정상적인 행동을 감지하고 해결하여 공정의 안정성을 높이고 생산성과 품질을 개선할 방법을 찾아내고자 한다. 
 
-* **결과** :  
+* **결과** :
+  *  129번 센서 데이터가 불량 여부에 가장 영향을 미치는것으로 파악되지만, 상관성이 높은 소수의 데이터를 기준으로 도출한 결과이므로 추후 보정이 필요하다.  (전체 데이터를 사용했을 경우 59번 데이터가 가장 유의미한 것으로 파악)
+    
+  *  불량 예측률이 27%로 분석에 정확도가 떨어지므로 추가적인 방법 모색이 필요하다. 
 
 *  **보완할 점** :
     <details> 
@@ -124,7 +138,7 @@
 * **참고 자료** : Feature Engineering을 다룰 수 있는 주요 Competition 소개 [kaggle 바로가기](https://www.kaggle.com/competitions/home-credit-default-risk/overview)
 </br>
 
-&nbsp; **➜프로젝트 상세** : [기본](https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/blob/main/Manufacturing/Manufacturing_Basic.ipynb) [심화](https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/blob/main/Manufacturing/EXPORT_MANUFACTUR/Manufacturing_Advanced.ipynb)
+&nbsp; **➜프로젝트 상세** : [기본](https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/blob/main/Manufacturing/Manufacturing_Basic.ipynb) / [심화-과제요건서 작성](https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/blob/main/Manufacturing/EXPORT_MANUFACTUR/Manufacturing_Advanced.ipynb)
 </br>  
 </br> 
 
@@ -133,31 +147,35 @@
 
 * **목적** : TV 홈쇼핑 기반 가상 온라인몰 다잇다의 고객 구매 데이터 분석을 기반으로 추가 구매 유도를 위한 데이터 분석 방법론 적용
 
-* **내용** :   
+* **내용** : 고객정보, 주문채널, 카테고리, 주문일자 등 다양한 시각으로 구매 데이터를 분석하여 구매를 유도할 수 있는 방안 모색
 
-* **결과** :  
+* **결과** : 시간가중치 적용 전 후에 선호아이템이 달라지는 것이 확인되었으며, 이용했던 주문채널을 고려한 프로모션 전략 수립을 통해 매출을 성장시킬 수 있을거라 예상된다. 
 
 * **실무 적용 방향** :  
-  * 커머스 실무에서는 카테고리 단위 분석을 많이 하게 됩니다. 카테고리 단위의 매출 분석에서는 여러 가지 분석 방법론이 적용될 수 있는데, 매출 기여도를 분석할 경우 ABC 분석 방법을 사용하여 우리 서비스에서 매출에 가장 많은 기여를 하고 있는 카테고리가 무엇인지를 파악하기도 하고, Z 차트를 이용하여 현재 해당 카테고리의 매출 트렌드를 파악하기도 합니다. 또한, 카테고리 특성에 따라 상품 포트폴리오를 조율하거나 특정 카테고리에서 구매확정률(=상품 전환율)이 떨어지는 신호를 데이터를 통해 센싱하고 이를 개선할 수 있도록 MD 조직, 물류 조직과도 협업을 많이 하게 됩니다. 이러한 실무적 배경을 이해하고 추가로 기본 과제의 데이터에서는 이러한 부분을 어떻게 접근하고 데이터를 파악해 볼 수 있을지를 한번 고민해 보시는 것도 큰 도움이 될 것이라고 생각합니다
+  * 커머스 실무에서는 카테고리 단위 분석을 많이 하게 됩니다. 카테고리 단위의 매출 분석에서는 여러 가지 분석 방법론이 적용될 수 있는데, 매출 기여도를 분석할 경우 ABC 분석 방법을 사용하여 우리 서비스에서 매출에 가장 많은 기여를 하고 있는 카테고리가 무엇인지를 파악하기도 하고, Z 차트를 이용하여 현재 해당 카테고리의 매출 트렌드를 파악하기도 합니다. 또한, 카테고리 특성에 따라 상품 포트폴리오를 조율하거나 특정 카테고리에서 구매확정률(=상품 전환율)이 떨어지는 신호를 데이터를 통해 센싱하고 이를 개선할 수 있도록 MD 조직, 물류 조직과도 협업을 많이 하게 됩니다. 이러한 실무적 배경을 이해하고 추가로 기본 과제의 데이터에서는 이러한 부분을 어떻게 접근하고 데이터를 파악해 볼 수 있을지를 한번 고민해 보시는 것도 큰 도움이 될 것이라고 생각합니다.
+    
   * 실무에서는 할인액이 거래액 증분에 미치는 영향도를 간단한 회귀 모델을 생성하여 분석을 하기도 합니다.
 
 * **참고 자료** : [도서 - 파이썬 데이터 분석 실무 테크닉 100](https://wikibook.co.kr/pyda100)  
 </br>
 
-&nbsp; **➜프로젝트 상세** : [기본](https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/blob/main/Marketing/Marketing_Basic.ipynb) [심화](https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/blob/main/Marketing/Marketing_Advanced.ipynb)
+&nbsp; **➜프로젝트 상세** : [기본](https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/blob/main/Marketing/Marketing_Basic.ipynb) / [심화](https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/blob/main/Marketing/Marketing_Advanced.ipynb)
 </br>  
 </br> 
 
 ### 4. Final Project <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">  
 #### 패스트캠퍼스 기업 데이터 분석
 
-* **목적** : 
+* **목적** : 패스트캠퍼스 기업 데이터를 통해 2022년 현황을 분석하여 향후 사업에 도움이 될 수 있는 인사이트 도출
 
-* **내용** :   
+* **내용** : 패스트캠퍼스의 Order, Customer, User, Refund, Course 데이터를 분석하고 회원 유치 및 매출 향상 방안을 모색
 
 * **결과** :  
-
-* **보완할 점** :  
+  * 이벤트의 영향으로 회원가입 수가 변화된다고 가정했을 때, 2월 ~ 11월에도 각각의 특성을 살린 프로모션을 계획하여 회원 수를 늘릴 방안을 마련해야 한다.
+  
+  * 시간대별 회원가입 수를 분석했을 때, 근무시간에 영향을 받는 것으로 추측되므로 이 시간대에 회원 유치를 할 수 있는 새로운 전략을 마련해야 할 필요가 있다.
+  
+* **보완할 점** : 작성 예정 
 </br>
 
 &nbsp; **➜프로젝트 상세** : [FINAL PROJECT](https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/blob/main/Final-Project/Final_Project.ipynb)
