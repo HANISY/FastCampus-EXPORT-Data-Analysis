@@ -1,5 +1,6 @@
 # Fastcampus : EX-PORT 2nd Data Analysis 
 ## About
+<img src="https://github.com/HANISY/FastCampus-EXPORT-Data-Analysis/blob/main/img/EXPORT.png" />  
 패스트캠퍼스 데이터 분석 2기 EX-PORT 과정 중 수행한 과제들을 정리하였습니다.  
 
 ## Contents
